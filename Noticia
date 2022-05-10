@@ -13,7 +13,6 @@
 
     <nav class="navbar navbar-light" style="background-color: #ffffff;">
       </nav>
-
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
           <a class="navbar-brand" href="#">GJM</a>
@@ -50,12 +49,18 @@
           </div>
         </div>
       </nav>
-     
+
       <nav class="navbar navbar-light" style="background-color: #ffffff;">
         <!-- Navbar content -->
       </nav>
+
       <nav class="navbar navbar-light" style="background-color: #ffffff;">
         <!-- Navbar content -->
+      </nav>
+
+      <h2>Games do momento <span class="badge bg-secondary">New</span></h2>
+
+
       </nav>
       <nav class="navbar navbar-light" style="background-color: #ffffff;">
         <!-- Navbar content -->
@@ -132,39 +137,50 @@
     </nav>
 
 
+    <h2>Filmes Lançamento 2022 <span class="badge bg-secondary">New</span></h2>
 
+    <nav class="navbar navbar-light" style="background-color: #ffffff;">
+    </nav>
+    <nav class="navbar navbar-light" style="background-color: #ffffff;">
+    </nav>
+    <nav class="navbar navbar-light" style="background-color: #ffffff;">
+    </nav>
+    <nav class="navbar navbar-light" style="background-color: #ffffff;">
+    </nav>
+    <nav class="navbar navbar-light" style="background-color: #ffffff;">
+    </nav>
 
     <div class="container">
         <div class="row">
           <div class="col">
             <div class="card" style="width: 18rem;">
-                <img src="/img/strange.jpg" class="card-img-top" alt="...">
+                <img src="img/dr estranho.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
-                  <h5 class="card-title">Card title</h5>
-                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                  <a href="#" class="btn btn-primary">Go somewhere</a>
+                  <h5 class="card-title">Doutor Estranho no Multiverso da Loucura</h5>
+                  <p class="card-text">O aguardado filme trata da jornada do Doutor Estranho rumo ao desconhecido. Além de receber ajuda de novos aliados místicos e outros já conhecidos do público, o personagem atravessa...</p>
+                  <a href="#" class="btn btn-primary">Ver mais</a>
                 </div>
               </div>
         
           </div>
           <div class="col">
             <div class="card" style="width: 18rem;">
-                <img src="..." class="card-img-top" alt="...">
+                <img src="img/maxresdefault.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
-                  <h5 class="card-title">Card title</h5>
-                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                  <a href="#" class="btn btn-primary">Go somewhere</a>
+                  <h5 class="card-title">Uncharted</h5>
+                  <p class="card-text">Nathan Drake e seu parceiro canastrão Victor "Sully" Sullivan embarcam em uma perigosa busca para encontrar o maior tesouro jamais encontrado. Enquanto isso, eles também rastreiam pistas que podem...</p>
+                  <a href="#" class="btn btn-primary">Ver mais</a>
                 </div>
               </div>
         
           </div>
           <div class="col">
             <div class="card" style="width: 18rem;">
-                <img src="..." class="card-img-top" alt="...">
+                <img src="img/batman.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
-                  <h5 class="card-title">Card title</h5>
-                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                  <a href="#" class="btn btn-primary">Go somewhere</a>
+                  <h5 class="card-title">Batman</h5>
+                  <p class="card-text">Após dois anos espreitando as ruas como Batman, Bruce Wayne se encontra nas profundezas mais sombrias de Gotham City. Com poucos aliados confiáveis, o vigilante solitário se estabelece como...</p>
+                  <a href="#" class="btn btn-primary">Ver mais</a>
                 </div>
               </div>
         
@@ -172,7 +188,40 @@
         </div>
       </div>
 
+      <div class="d-grid gap-2">
+        <button class="btn btn-primary" type="button">Veja mais</button>
+      </div>
 
+      <nav class="navbar navbar-light" style="background-color: #ffffff;">
+      </nav>
+      <nav class="navbar navbar-light" style="background-color: #ffffff;">
+      </nav>
+      <nav class="navbar navbar-light" style="background-color: #ffffff;">
+      </nav>
+      
+      <h2>2022 Brasil Game Show (BGS)
+        <span class="badge bg-secondary">New</span></h2>
+
+        <nav class="navbar navbar-light" style="background-color: #ffffff;">
+        </nav>
+        <nav class="navbar navbar-light" style="background-color: #ffffff;">
+        </nav>
+        <nav class="navbar navbar-light" style="background-color: #ffffff;">
+        </nav>
+        <nav class="navbar navbar-light" style="background-color: #ffffff;">
+        </nav>
+
+        <div class="card mb-3">
+          <img src="img/25132735457240.jpg" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">Brasil Game Show</h5>
+            <p class="card-text">O que é BGS evento?
+              Resultado de imagem para bgs 2022
+              A Brasil Game Show (BGS), maior feira de games e jogos da América Latina, abriu nesta segunda-feira, 22, a venda de ingressos para a 13ª edição do evento, que acontecerá em 2022, entre os dias 6 e 12</p>
+            <p class="card-text"><small class="text-muted">👆</small></p>
+          </div>
+        </div>
+        
 
   </body>
 </html>
