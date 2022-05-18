@@ -15,7 +15,7 @@
       </nav>
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
-          <a class="navbar-brand" href="file:///C:/Users/Alberi/Desktop/site%20matheus/index.html?#">GJM</a>
+          <a class="navbar-brand" href="index.html">GJM</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -28,13 +28,12 @@
                 <a class="nav-link" href="#">Geek</a>
               </li>
               <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-                  Dropdown
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  Dropdown link
                 </a>
-                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <li><a class="dropdown-item" href="/esportes.html">Action</a></li>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                  <li><a class="dropdown-item" href="#">Action</a></li>
                   <li><a class="dropdown-item" href="#">Another action</a></li>
-                  <li><hr class="dropdown-divider"></li>
                   <li><a class="dropdown-item" href="#">Something else here</a></li>
                 </ul>
               </li>
@@ -81,8 +80,8 @@
                 <ul class="list-group list-group-flush">
                 </ul>
                 <div class="card-body">
-                  <a href="#" class="card-link">Saiba mais</a>
-                  <a href="https://www.epicgames.com/fortnite/pt-BR/home" class="card-link">Adquira</a>
+                  <a href="#" class="card-link" target="_blank">Saiba mais</a>
+                  <a href="https://www.epicgames.com/fortnite/pt-BR/home" target="_blank" class="card-link">Adquira</a>
                 </div>
               </div>
         
@@ -126,7 +125,7 @@
     </nav>
 
       <div class="d-grid gap-2">
-        <a href="file:///C:/Users/Alberi/Desktop/site%20matheus/Games%20do%20momento.html" button class="btn btn-primary" type="button">Veja mais</a>
+        <a href="gamesdomomento.html" button class="btn btn-primary" type="button">Veja mais</a>
       
       </div>
 
@@ -193,7 +192,7 @@
       </nav>
 
       <div class="d-grid gap-2">
-        <a href="file:///C:/Users/Alberi/Desktop/site%20matheus/Filmes%20do%20momento.html" button class="btn btn-primary" type="button">Veja mais</a>
+        <a href="filmesdomomento.html" button class="btn btn-primary" type="button">Veja mais</a>
       </div>
 
       <nav class="navbar navbar-light" style="background-color: #ffffff;">
