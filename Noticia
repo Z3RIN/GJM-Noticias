@@ -57,7 +57,7 @@
         <!-- Navbar content -->
       </nav>
 
-      <h2>Games do momento <span class="badge bg-secondary">New</span></h2>
+      <h2>Games do momento <span target="_blank" class="badge bg-secondary">New</span></h2>
 
 
       </nav>
@@ -125,7 +125,7 @@
     </nav>
 
       <div class="d-grid gap-2">
-        <a href="gamesdomomento.html" button class="btn btn-primary" type="button">Veja mais</a>
+        <a href="gamesdomomento.html" target="_blank" button class="btn btn-primary" type="button">Veja mais</a>
       
       </div>
 
@@ -135,6 +135,85 @@
     </nav>
     <nav class="navbar navbar-light" style="background-color: #ffffff;">
     </nav>
+
+
+
+
+
+
+    <h2>Os jogos mais odiados<span target="_blank" class="badge bg-secondary">New</span></h2>
+
+    <nav class="navbar navbar-light" style="background-color: #ffffff;">
+    </nav>
+    <nav class="navbar navbar-light" style="background-color: #ffffff;">
+    </nav>
+    <nav class="navbar navbar-light" style="background-color: #ffffff;">
+    </nav>
+    <nav class="navbar navbar-light" style="background-color: #ffffff;">
+    </nav>
+    <nav class="navbar navbar-light" style="background-color: #ffffff;">
+    </nav>
+
+    <div class="container">
+        <div class="row">
+          <div class="col">
+            <div class="card" style="width: 18rem;">
+                <img src="img/Cyberpunk-2077-expansion-is-coming-in-2023-1.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">CYBER BUG</h5>
+                  <p class="card-text">O aguardado filme trata da jornada do Doutor Estranho rumo ao desconhecido. Além de receber ajuda de novos aliados místicos e outros já conhecidos do público, o personagem atravessa...</p>
+                  <a href="#" class="btn btn-primary">Ver mais</a>
+                </div>
+              </div>
+        
+          </div>
+          <div class="col">
+            <div class="card" style="width: 18rem;">
+                <img src="img/GTASA_PC_Retail-5.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">GTA Trilogy</h5>
+                  <p class="card-text">Nathan Drake e seu parceiro canastrão Victor "Sully" Sullivan embarcam em uma perigosa busca para encontrar o maior tesouro jamais encontrado. Enquanto isso, eles também rastreiam pistas que podem...</p>
+                  <a href="#" class="btn btn-primary">Ver mais</a>
+                </div>
+              </div>
+        
+          </div>
+          <div class="col">
+            <div class="card" style="width: 18rem;">
+                <img src="img/2042.jpg" class="card-img-top" alt="...">
+                <div class="card-body">
+                  <h5 class="card-title">Battlefield 2042</h5>
+                  <p class="card-text">Após dois anos espreitando as ruas como Batman, Bruce Wayne se encontra nas profundezas mais sombrias de Gotham City. Com poucos aliados confiáveis, o vigilante solitário se estabelece como...</p>
+                  <a href="#" class="btn btn-primary">Ver mais</a>
+                </div>
+              </div>
+        
+          </div>
+        </div>
+      </div>
+
+      <nav class="navbar navbar-light" style="background-color: #ffffff;">
+      </nav>
+
+      <div class="d-grid gap-2">
+        <a href="filmesdomomento.html" target="_blank" button class="btn btn-primary" type="button">Veja mais</a>
+      </div>
+
+      <nav class="navbar navbar-light" style="background-color: #ffffff;">
+      </nav>
+      <nav class="navbar navbar-light" style="background-color: #ffffff;">
+      </nav>
+      <nav class="navbar navbar-light" style="background-color: #ffffff;">
+      </nav>
+
+
+
+  
+
+
+
+
+
 
 
     <h2>Filmes Lançamento 2022 <span class="badge bg-secondary">New</span></h2>
@@ -158,7 +237,7 @@
                 <div class="card-body">
                   <h5 class="card-title">Doutor Estranho no Multiverso da Loucura</h5>
                   <p class="card-text">O aguardado filme trata da jornada do Doutor Estranho rumo ao desconhecido. Além de receber ajuda de novos aliados místicos e outros já conhecidos do público, o personagem atravessa...</p>
-                  <a href="#" class="btn btn-primary">Ver mais</a>
+                  <a href="#" target="_blank" class="btn btn-primary">Ver mais</a>
                 </div>
               </div>
         
@@ -169,7 +248,7 @@
                 <div class="card-body">
                   <h5 class="card-title">Uncharted</h5>
                   <p class="card-text">Nathan Drake e seu parceiro canastrão Victor "Sully" Sullivan embarcam em uma perigosa busca para encontrar o maior tesouro jamais encontrado. Enquanto isso, eles também rastreiam pistas que podem...</p>
-                  <a href="#" class="btn btn-primary">Ver mais</a>
+                  <a href="#" target="_blank" class="btn btn-primary">Ver mais</a>
                 </div>
               </div>
         
@@ -180,7 +259,7 @@
                 <div class="card-body">
                   <h5 class="card-title">Batman</h5>
                   <p class="card-text">Após dois anos espreitando as ruas como Batman, Bruce Wayne se encontra nas profundezas mais sombrias de Gotham City. Com poucos aliados confiáveis, o vigilante solitário se estabelece como...</p>
-                  <a href="#" class="btn btn-primary">Ver mais</a>
+                  <a href="#" target="_blank" class="btn btn-primary">Ver mais</a>
                 </div>
               </div>
         
@@ -192,7 +271,7 @@
       </nav>
 
       <div class="d-grid gap-2">
-        <a href="filmesdomomento.html" button class="btn btn-primary" type="button">Veja mais</a>
+        <a href="filmesdomomento.html" target="_blank" button class="btn btn-primary" type="button">Veja mais</a>
       </div>
 
       <nav class="navbar navbar-light" style="background-color: #ffffff;">
