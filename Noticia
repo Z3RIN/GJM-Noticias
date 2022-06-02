@@ -112,7 +112,7 @@
                 <ul class="list-group list-group-flush">
                 </ul>
                 <div class="card-body">
-                  <a href="#" class="card-link">Saiba mais</a>
+                  <a href="Games/Gotham.html" class="card-link">Saiba mais</a>
                   <a href="https://www.gothamknightsgame.com/pt-br" class="card-link">Adquira</a>
                 </div>
               </div>
@@ -237,7 +237,7 @@
                 <div class="card-body">
                   <h5 class="card-title">Doutor Estranho no Multiverso da Loucura</h5>
                   <p class="card-text">O aguardado filme trata da jornada do Doutor Estranho rumo ao desconhecido. Além de receber ajuda de novos aliados místicos e outros já conhecidos do público, o personagem atravessa...</p>
-                  <a href="#" target="_blank" class="btn btn-primary">Ver mais</a>
+                  <a href="Filmes/Dr.Estranho.html" target="_blank" class="btn btn-primary">Ver mais</a>
                 </div>
               </div>
         
@@ -248,7 +248,7 @@
                 <div class="card-body">
                   <h5 class="card-title">Uncharted</h5>
                   <p class="card-text">Nathan Drake e seu parceiro canastrão Victor "Sully" Sullivan embarcam em uma perigosa busca para encontrar o maior tesouro jamais encontrado. Enquanto isso, eles também rastreiam pistas que podem...</p>
-                  <a href="#" target="_blank" class="btn btn-primary">Ver mais</a>
+                  <a href="Filmes/Uncharted.html" target="_blank" class="btn btn-primary">Ver mais</a>
                 </div>
               </div>
         
@@ -259,7 +259,7 @@
                 <div class="card-body">
                   <h5 class="card-title">Batman</h5>
                   <p class="card-text">Após dois anos espreitando as ruas como Batman, Bruce Wayne se encontra nas profundezas mais sombrias de Gotham City. Com poucos aliados confiáveis, o vigilante solitário se estabelece como...</p>
-                  <a href="#" target="_blank" class="btn btn-primary">Ver mais</a>
+                  <a href="Filmes/batman.html" target="_blank" class="btn btn-primary">Ver mais</a>
                 </div>
               </div>
         
