@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="pt-br">
+  <head>
+   
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+    <title>🕹 Lego Star Wars 🕹</title>
+    <style>
+      .b-example-divider {
+        height: 3rem;
+        background-color: rgba(255, 255, 255, 0.1);
+        border-width: 1px 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="b-example-divider"></div>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="index.html">GJM</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Geek</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Dropdown
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <li><a class="dropdown-item" href="/esportes.html">Action</a></li>
+                <li><a class="dropdown-item" href="#">Another action</a></li>
+                <li><hr class="dropdown-divider"></li>
+                <li><a class="dropdown-item" href="#">Something else here</a></li>
+              </ul>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link disabled">Disabled</a>
+            </li>
+          </ul>
+          <form class="d-flex">
+            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success" type="submit">Pesqusiar</button>
+          </form>
+        </div>
+      </div>
+    </nav>
+
+    <div class="b-example-divider"></div>
+<div class="container">
+    
+    
+    <h2>🕹 Lego Star Wars 🕹<span class="badge bg-secondary">Uau</span></h2>
+
+    
+    </div>
+    <div class="b-example-divider"></div>
+
+<div class="container">
+    
+    <p class="fw-bold">O lego star wars skywalker saga é o sexto jogo da franquia que será como os outros, um jogo de ação-aventura, que tem como seu antecessor o Star Wars The Force Awakens, de 2016 desenvolvido pela Traveller's Tales e publicado pela Warner Bros Interactive Entertainment.
+
+    </p>
+
+    <p class="fw-bold">O jogo terá como preço base de 200R$ fazendo dele o jogo mais caro da franquia star wars.
+    </p>
+
+    <p class="fw-bold" class="text-center">o jogo terá como desevolvedor principal a WB Games Montreal que já foi responsavel por outros jogos arkham
+      e seu valor vá ser atrubuido a bagatela de 300R$ na pré venda com beneficios.
+
+    </p>
+
+    <p class="fw-bold"> Jogo terá jogabilidade de historia onde o jogador terá de avançar na historia em ordem linear, ou seja o jogador, tem a disponibilidade de escolher qual das 3 sagas vai escolher, no caso ( as trilogias de 1977 de 1999 e de 2016) em formato de jogo. 
+      Obviamente cada episódio possui cinco missões de história completando um total de 45 fases com seis estágios por episódio. Uma novidade que os jogos de star wars lego precisavam que é a inovação de ataques e de movimentos como combinacões de ataques pesados e leves.
+    </p>
+
+    <p class="fw-bold"> O jogo apresenta mais de 300 PERSONAGENS DISPONIVEIS sem contar com a variedade de planetas que foram ampliados como: Naboo, Tatooine, Coruscant, Kamino, Geonosis, Kashyyyk,
+      Utapau, Mustafar, Yavin 4,Hoth, Dagobah, Bespin, Endor, Jakku, Takodana,
+      D'Qar, Starkiller Base, Ahch-To, Cantonica, Crait, Ajan Kloss, Pasaana, Kijimi, Kef Bir e Exegol. TSSodos os planetas são exploraveis e outra coisa que também é possivel de ser explorada agora são as areas de naves como a estrela da morte.
+      
+ 
+    </p>
+
+    <p class="fw-bold">
+    </p>
+
