@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="pt-br">
+  <head>
+   
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+
+    <title>🦇 Gotham 🦇</title>
+    <style>
+      .b-example-divider {
+        height: 3rem;
+        background-color: rgba(255, 255, 255, 0.1);
+        border-width: 1px 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="b-example-divider"></div>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="index.html">GJM</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Geek</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Dropdown
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <li><a class="dropdown-item" href="/esportes.html">Action</a></li>
+                <li><a class="dropdown-item" href="#">Another action</a></li>
+                <li><hr class="dropdown-divider"></li>
+                <li><a class="dropdown-item" href="#">Something else here</a></li>
+              </ul>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link disabled">Disabled</a>
+            </li>
+          </ul>
+          <form class="d-flex">
+            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-outline-success" type="submit">Pesqusiar</button>
+          </form>
+        </div>
+      </div>
+    </nav>
+
+    <div class="b-example-divider"></div>
+<div class="container">
+    
+    
+    <h2>🦇 Gotham 🦇<span class="badge bg-secondary">Uau</span></h2>
+
+    
+    </div>
+    <div class="b-example-divider"></div>
+
+<div class="container">
+    
+    <p class="fw-bold">Gotham Knights está previsto para se lançado em 2022 tendo como objetivo colocar os persogens sercundarios de batman em um jogo de rpg. 
+
+    </p>
+
+    <p class="fw-bold">Nessa historia batman está morto. O motivo da sua morte ainda n foi revelado porém os fans acreditam que o batman morreu por conta de coringa. Em consequencia disso capuz vermelho, asa noturna, batgirl e robin enbarcaram em um desafio: Proteger gotham city. 
+
+    </p>
+
+    <p class="fw-bold" class="text-center">o jogo terá como desevolvedor principal a WB Games Montreal que já foi responsavel por outros jogos arkham
+      e seu valor vá ser atrubuido a bagatela de 300R$ na pré venda com beneficios.
+
+    </p>
+
+    <p class="fw-bold">Ao conceber a Runa da Morte para Maliketh, Marika "removeu" a morte das Terras Intermédias e deu início à Era da Ordem Dourada. No entanto, isso não terminou com as diversas guerras que aconteciam. Para vencer essas guerras, principalmente aquela contra a realeza Cariana, Marika precisava de alguém que lutasse por ela.
+
+    </p>
+
+    <p class="fw-bold">até onde se sabe gotham night será lançado em 25 de outubro de 2022 sendo dibonibilizado para ps5 xbox seires x ps4 xbox one e pc (via steam)
+
+    </p>
+
+    <p class="fw-bold">A jogo apesar de ser um rpg terá sua jogabilidade identica a outros jogos da fraquia como o de batman arkham night, que é um jogo em mundo aberto com missões sercundarias e primarias e conquistas. 
+
+
+    </p>
+
+
+
+
+
+
+</div>
+    <div class="b-example-divider"></div>
+
+
+
+
+
+
+
+    <footer class="mt-auto text-50">
+      <p>Criado por <a href="#" class="text">Matheus e ...</a> .</p>
+    </footer>
+
+</div>
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </html>
