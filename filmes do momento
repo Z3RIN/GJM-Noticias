@@ -83,7 +83,7 @@
                 <div class="card-body">
                   <h5 class="card-title">Doutor Estranho no Multiverso da Loucura</h5>
                   <p class="card-text">O aguardado filme trata da jornada do Doutor Estranho rumo ao desconhecido. Além de receber ajuda de novos aliados místicos e outros já conhecidos do público, o personagem atravessa...</p>
-                  <a href="#" class="btn btn-primary">Ver mais</a>
+                  <a href="Filmes/Dr.Estranho.html" class="btn btn-primary">Ver mais</a>
                 </div>
               </div>
         
@@ -94,7 +94,7 @@
                 <div class="card-body">
                   <h5 class="card-title">Uncharted</h5>
                   <p class="card-text">Nathan Drake e seu parceiro canastrão Victor "Sully" Sullivan embarcam em uma perigosa busca para encontrar o maior tesouro jamais encontrado. Enquanto isso, eles também rastreiam pistas que podem...</p>
-                  <a href="#" class="btn btn-primary">Ver mais</a>
+                  <a href="Filmes/Uncharted.html" class="btn btn-primary">Ver mais</a>
                 </div>
               </div>
         
@@ -105,7 +105,7 @@
                 <div class="card-body">
                   <h5 class="card-title">Batman</h5>
                   <p class="card-text">Após dois anos espreitando as ruas como Batman, Bruce Wayne se encontra nas profundezas mais sombrias de Gotham City. Com poucos aliados confiáveis, o vigilante solitário se estabelece como...</p>
-                  <a href="#" class="btn btn-primary">Ver mais</a>
+                  <a href="Filmes/batman.html" class="btn btn-primary">Ver mais</a>
                 </div>
               </div>
         
@@ -127,7 +127,7 @@
               <div class="card-body">
                 <h5 class="card-title">Sonic 2 - O Filme</h5>
                 <p class="card-text">O Dr. Robotnik retorna à procura de uma esmeralda mística que tem o poder de destruir civilizações. Para detê-lo, Sonic se une a seu antigo parceiro, Tails, e parte em uma...</p>
-                <a href="#" class="btn btn-primary">Ver mais</a>
+                <a href="Filmes/Sonic.html" class="btn btn-primary">Ver mais</a>
               </div>
             </div>
           </div>
@@ -137,7 +137,7 @@
               <div class="card-body">
                 <h5 class="card-title">morbius</h5>
                 <p class="card-text">O bioquímico Michael Morbius tenta curar-se de uma doença rara no sangue mas, sem perceber, ele fica infectado com uma forma de vampirismo.</p>
-                <a href="#" class="btn btn-primary">Ver mais</a>
+                <a href="Filmes/Morbius.html" class="btn btn-primary">Ver mais</a>
               </div>
             </div>
           </div>
@@ -147,7 +147,7 @@
               <div class="card-body">
                 <h5 class="card-title">Thor amor e trovão</h5>
                 <p class="card-text">Thor: Love and Thunder é um futuro filme estadunidense de super-herói baseado no personagem Thor da Marvel Comics. Produzido pela Marvel Studios e distribuído pela...</p>
-                <a href="#" class="btn btn-primary">Ver mais</a>
+                <a href="Filmes/Thor.html" class="btn btn-primary">Ver mais</a>
               </div>
             </div>
           </div>
